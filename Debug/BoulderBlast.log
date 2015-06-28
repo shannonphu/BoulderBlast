@@ -1,0 +1,8 @@
+﻿  StudentWorld.cpp
+  main.cpp
+  GameWorld.cpp
+  GameController.cpp
+  Actor.cpp
+  Generating Code...
+c:\users\daygana100\desktop\old hw\cs 32\project 3\boulderblast-skeleton-windows\boulderblast\boulderblast\actor.cpp(712): warning C4715: 'KleptoBot::randDirection' : not all control paths return a value
+  BoulderBlast.vcxproj -> C:\Users\daygana100\Desktop\Old HW\CS 32\Project 3\BoulderBlast-skeleton-windows\BoulderBlast\Debug\BoulderBlast.exe
